@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** and **Founding Member** at Nasheedio (valued at $5M USD), passionate about building scalable mobile applications and backend systems. With experience ranging from high-traffic e-commerce platforms at **Apple** to innovative blockchain solutions, I thrive on solving complex technical challenges.
+I'm a **Full-Stack Developer** and **Founding Member** at Nasheedio (valued at $5M USD), passionate about building scalable mobile applications and backend systems. With experience ranging from high-traffic e-commerce platforms at **Infosys** for a big tech client to innovative blockchain solutions, I thrive on solving complex technical challenges.
 
 - 🔭 Currently leading tech operations at **Nasheedio** - a rapidly growing platform with 100,000+ downloads
 - 🌱 Building **Quizzler AI Play** - Real-time multiplayer quiz with AI-powered question generation
@@ -27,8 +27,8 @@ I'm a **Full-Stack Developer** and **Founding Member** at Nasheedio (valued at $
 - 🎵 Implemented YouTube & Original Content Players, Conference Calling, AI Assistant
 - 🏗️ Architected scalable solutions using Firebase, StrapiJS, PostgreSQL
 
-### 🍎 Infosys - Backend Developer (Apple Online Store)
-*Specialist Programmer working on Apple's checkout systems*
+### 🍎 Infosys - Backend Developer (Online Ecommerce Store)
+*Specialist Programmer working on Big Tech's ecom checkout systems*
 - 💳 Developed Consolidation Delivery Feature saving massive shipping costs
 - 🛒 Built Invoice & Gift Card features for Apple's global e-commerce platform
 - 🐛 Resolved **100+ production bugs** | Monitored critical NPI events
@@ -69,7 +69,7 @@ I'm a **Full-Stack Developer** and **Founding Member** at Nasheedio (valued at $
 
 ## 🏆 Featured Projects
 
-### 🎯 [Quizzler AI Play](https://github.com/AwsmAsim) - *Real-time Multiplayer Quiz with AI*
+### 🎯 [Quizzler AI Play](https://github.com/AwsmAsim/quizzler_ai_play) - *Real-time Multiplayer Quiz with AI*
 - 🤖 **AI-powered** question generation on any topic using OpenAI API
 - 🔥 **Real-time multiplayer** with Firebase Firestore synchronization
 - 📱 Built with **Flutter + GetX** | Available on **iOS TestFlight**
